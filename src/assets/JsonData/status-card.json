@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-calculator",
+        "count": "21",
+        "title": "BMI"
+    },
+    {
+        "icon": "bx bx-heart",
+        "count": "Healthy",
+        "title": "Status"
+    },
+    {
+        "icon": "bx bx-run",
+        "count": "3 km",
+        "title": "Running"
+    },
+    {
+        "icon": "bx bx-health",
+        "count": "115",
+        "title": "Calories Burnt"
+    }
+]

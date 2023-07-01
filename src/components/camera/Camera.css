@@ -1,0 +1,39 @@
+.conn_button {
+    display: flex;
+    flex-direction: column;
+}
+
+.server_conn{
+    
+    background-color: rgb(40, 158, 255);
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px;
+    color: aliceblue;
+}
+
+.room_conn{
+    
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px;
+    
+}
+
+.username_conn{
+    
+    background-color: rgb(40, 158, 255);
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px;
+    color: aliceblue;
+}
+
+.main_body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+  }

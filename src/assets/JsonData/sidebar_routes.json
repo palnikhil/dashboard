@@ -1,0 +1,12 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "GamePortal",
+        "route": "/gameportal",
+        "icon": "bx bx-video-plus"
+    }
+]
